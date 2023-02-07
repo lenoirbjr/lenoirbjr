@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  Me apresento como um graduando em engenharia apaixonado pelos seus interesses pessoais:
+  Me apresento como um graduando em engenharia apaixonado pelos meus interesses pessoais:
   
   Programação • Buracos Negros • Jogos • Arte 
 </div>
